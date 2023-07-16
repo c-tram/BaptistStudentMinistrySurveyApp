@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "79325245837",
+    "firebase_url": "https://bsm-reachall-default-rtdb.firebaseio.com",
+    "project_id": "bsm-reachall",
+    "storage_bucket": "bsm-reachall.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79325245837:android:c477b0857b8035bec48dc4",
+        "android_client_info": {
+          "package_name": "com.example.test_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "79325245837-nfhefobnec032ics3h691i2emgmgsqaa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuZZyxPhgXCAhNJkdEIEsY75ykaDnIXyI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "79325245837-nfhefobnec032ics3h691i2emgmgsqaa.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "79325245837-chmoq3tlgq6jhc1469vi7fhgutbss5ij.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.testApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
